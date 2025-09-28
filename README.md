@@ -1,2 +1,2 @@
-This is a website for food delivery using html and css only.
-It is  non interactive.
+This is a website for food delivery using html ,css and javascript .
+It is not so much interactive.
